@@ -16,7 +16,8 @@
   </p>
 </div>
 
-![🤨](images/unamed1.png)
+![Sky Music Player](images/unamed1.png)](https://github.com/Blocker11/Sky-Music-Player-For-Sustaining-Instrument/releases/download/v1.0/Sky-Music-Player.exe)
+
 
 
 <!-- GETTING STARTED -->
