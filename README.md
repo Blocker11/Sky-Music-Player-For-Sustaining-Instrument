@@ -15,7 +15,7 @@
   </p>
 </div>
 
-![alt text](https://streamable.com/n17e8q)
+![🤨](images/unamed.png)
 
 <!-- GETTING STARTED -->
 # Getting Started
