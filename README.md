@@ -11,11 +11,13 @@
 
   <p align="center">
     A Python script for playing instruments in Sky: CotL
+    This for including sustain auto detection to make the music smoother and lots of impressive features.
     <br />
   </p>
 </div>
 
 ![🤨](images/unamed1.png)
+
 
 <!-- GETTING STARTED -->
 # Getting Started
