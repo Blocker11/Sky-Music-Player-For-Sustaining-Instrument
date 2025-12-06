@@ -15,7 +15,7 @@
   </p>
 </div>
 
-![alt text](https://i.imgur.com/Vz6qr7t.png)
+![alt text](https://streamable.com/n17e8q)
 
 <!-- GETTING STARTED -->
 # Getting Started
