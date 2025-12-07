@@ -17,7 +17,7 @@
 </div>
 
 ![Sky Music Player](images/unamed1.png)]
-![Sky Music Player](https://github.com/Blocker11/Sky-Music-Player-For-Sustaining-Instrument/releases/download/Sky/Sky.mp4)]
+
 
 
 
